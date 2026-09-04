@@ -1,0 +1,585 @@
+unitid,inst_name,state_abbr,control,level,city
+128586,Bais Binyomin Academy,NY,private_nonprofit,4-year,Monsey
+183488,Eastwick College-Hackensack,NJ,private_forprofit,4-year,Hackensack
+183600,Assumption College for Sisters,NJ,private_nonprofit,2-year,Denville
+183655,Atlantic Cape Community College,NJ,public,2-year,Mays Landing
+183725,Fortis Institute-Wayne,NJ,private_forprofit,less-than-2-year,Wayne
+183743,Bergen Community College,NJ,public,2-year,Paramus
+183789,Berkeley College-Woodland Park,NJ,private_forprofit,4-year,Woodland Park
+183804,Beth Medrash Govoha,NJ,private_nonprofit,4-year,Lakewood
+183822,Bloomfield College,NJ,private_nonprofit,4-year,Bloomfield
+183859,Brookdale Community College,NJ,public,2-year,Lincroft
+183877,Rowan College at Burlington County,NJ,public,2-year,Mount Laurel
+183910,Caldwell University,NJ,private_nonprofit,4-year,Caldwell
+183938,Camden County College,NJ,public,2-year,Blackwood
+183974,Centenary University,NJ,private_nonprofit,4-year,Hackettstown
+183983,Adult and Continuing Education-BCTS,NJ,public,less-than-2-year,Hackensack
+184056,Lincoln Technical Institute-Iselin,NJ,private_forprofit,less-than-2-year,Iselin
+184092,American Institute-Clifton,NJ,private_forprofit,2-year,CLIFTON
+184180,County College of Morris,NJ,public,2-year,Randolph
+184205,Rowan College of South Jersey-Cumberland Campus,NJ,public,2-year,Vineland
+184348,Drew University,NJ,private_nonprofit,4-year,Madison
+184427,Lincoln Technical Institute-South Plainfield,NJ,private_forprofit,2-year,South Plainfield
+184481,Essex County College,NJ,public,2-year,Newark
+184506,Empire Beauty School-Union,NJ,private_forprofit,less-than-2-year,Union
+184603,Fairleigh Dickinson University-Metropolitan Campus,NJ,private_nonprofit,4-year,Teaneck
+184612,Felician University,NJ,private_nonprofit,4-year,Lodi
+184694,Fairleigh Dickinson University-Florham Campus,NJ,private_nonprofit,4-year,Madison
+184746,Hohokus School of Trade and Technical Sciences,NJ,private_forprofit,less-than-2-year,Paterson
+184773,Georgian Court University,NJ,private_nonprofit,4-year,Lakewood
+184782,Rowan University,NJ,public,4-year,Glassboro
+184791,Rowan College of South Jersey-Gloucester Campus,NJ,public,2-year,Sewell
+184816,Empire Beauty School-Cherry Hill,NJ,private_forprofit,less-than-2-year,Cherry Hill
+184959,Eastwick College-Ramsey,NJ,private_forprofit,4-year,Ramsey
+184968,Holy Name Medical Center-Sister Claire Tynan School of Nursing,NJ,private_nonprofit,2-year,Englewood Cliffs
+184995,Hudson County Community College,NJ,public,2-year,Jersey City
+185129,New Jersey City University,NJ,public,4-year,Jersey City
+185174,Joe Kubert School of Cartoon and Graphic Art,NJ,private_forprofit,less-than-2-year,Dover
+185262,Kean University,NJ,public,4-year,Union
+185396,Lincoln Technical Institute-Union,NJ,private_forprofit,less-than-2-year,Union
+185466,Rizzieri Aveda School for Beauty and Wellness,NJ,private_forprofit,less-than-2-year,Voorhees
+185509,Mercer County Community College,NJ,public,2-year,West Windsor
+185536,Middlesex College,NJ,public,2-year,Edison
+185572,Monmouth University,NJ,private_nonprofit,4-year,West Long Branch
+185590,Montclair State University,NJ,public,4-year,Montclair
+185679,JFK Muhlenberg Harold B. and Dorothy A. Snyder Schools,NJ,private_nonprofit,2-year,Plainfield
+185721,Eastwick College-Nutley,NJ,private_forprofit,2-year,Nutley
+185758,New Brunswick Theological Seminary,NJ,private_nonprofit,4-year,New Brunswick
+185767,Robert Fiance Beauty Schools-West New York,NJ,private_forprofit,less-than-2-year,West New York
+185828,New Jersey Institute of Technology,NJ,public,4-year,Newark
+185873,Ocean County College,NJ,public,2-year,Toms River
+185970,P B Cosmetology Education Center,NJ,private_forprofit,less-than-2-year,Gloucester
+186016,Parisian Beauty School,NJ,private_forprofit,less-than-2-year,Hackensack
+186034,Passaic County Community College,NJ,public,2-year,Paterson
+186052,Pennco Tech-Blackwood,NJ,private_forprofit,2-year,Blackwood
+186122,Princeton Theological Seminary,NJ,private_nonprofit,4-year,Princeton
+186131,Princeton University,NJ,private_nonprofit,4-year,Princeton
+186186,Rabbinical College of America,NJ,private_nonprofit,4-year,Morristown
+186201,Ramapo College of New Jersey,NJ,public,4-year,Mahwah
+186283,Rider University,NJ,private_nonprofit,4-year,Lawrenceville
+186371,Rutgers University-Camden,NJ,public,4-year,Camden
+186380,Rutgers University-New Brunswick,NJ,public,4-year,New Brunswick
+186399,Rutgers University-Newark,NJ,public,4-year,Newark
+186405,Capital Health School of Radiologic Technology,NJ,private_nonprofit,2-year,Trenton
+186423,Capital Health School of Nursing,NJ,private_nonprofit,2-year,Trenton
+186432,Saint Peter's University,NJ,private_nonprofit,4-year,Jersey City
+186469,Salem Community College,NJ,public,2-year,Carneys Point
+186584,Seton Hall University,NJ,private_nonprofit,4-year,South Orange
+186593,Shore Beauty School,NJ,private_forprofit,less-than-2-year,Egg Harbor Township
+186618,Saint Elizabeth University,NJ,private_nonprofit,4-year,Morristown
+186645,Raritan Valley Community College,NJ,public,2-year,Branchburg
+186867,Stevens Institute of Technology,NJ,private_nonprofit,4-year,Hoboken
+186876,Stockton University,NJ,public,4-year,Galloway
+186900,Talmudical Academy-New Jersey,NJ,private_nonprofit,4-year,Adelphia
+187000,Aviation Institute of Maintenance-Teterboro,NJ,private_forprofit,2-year,Hasbrouck Heights
+187046,Thomas Edison State University,NJ,public,4-year,Trenton
+187134,The College of New Jersey,NJ,public,4-year,Ewing
+187198,"UCNJ Union College of Union County, NJ",NJ,public,2-year,Cranford
+187444,William Paterson University of New Jersey,NJ,public,4-year,Wayne
+188340,Vaughn College of Aeronautics and Technology,NY,private_nonprofit,4-year,Flushing
+188429,Adelphi University,NY,private_nonprofit,4-year,Garden City
+188438,SUNY Adirondack,NY,public,2-year,Queensbury
+188517,Bryant & Stratton College-Albany,NY,private_nonprofit,4-year,Albany
+188526,Albany College of Pharmacy and Health Sciences,NY,private_nonprofit,4-year,Albany
+188535,Albany Law School,NY,private_nonprofit,4-year,Albany
+188580,Albany Medical College,NY,private_nonprofit,4-year,Albany
+188641,Alfred University,NY,private_nonprofit,4-year,Alfred
+188650,Allen School-Brooklyn,NY,private_forprofit,less-than-2-year,Brooklyn
+188669,The Ailey School,NY,private_nonprofit,2-year,New York
+188678,American Academy of Dramatic Arts-New York,NY,private_nonprofit,2-year,New York
+188687,American Academy McAllister Institute of Funeral Service,NY,private_nonprofit,2-year,New York
+188696,Joffrey Ballet School,NY,private_forprofit,2-year,New York
+188854,American Musical and Dramatic Academy,NY,private_nonprofit,4-year,New York
+188890,Apex Technical School,NY,private_forprofit,less-than-2-year,Long Island City
+188915,Arnot Ogden Medical Center,NY,private_nonprofit,2-year,Elmira
+188942,Associated Beth Rivkah Schools,NY,private_nonprofit,4-year,Brooklyn
+189015,Bank Street College of Education,NY,private_nonprofit,4-year,New York
+189088,Bard College,NY,private_nonprofit,4-year,Annandale-On-Hudson
+189097,Barnard College,NY,private_nonprofit,4-year,New York
+189219,Berk Trade and Business School,NY,private_forprofit,less-than-2-year,Long Island City
+189228,Berkeley College-New York,NY,private_forprofit,4-year,New York
+189255,Berkowits School of Electrolysis,NY,private_forprofit,less-than-2-year,Forest Hills
+189273,Beth Hamedrash Shaarei Yosher Institute,NY,private_nonprofit,4-year,Brooklyn
+189282,Mount Sinai Phillips School of Nursing,NY,private_nonprofit,4-year,New York
+189404,Brittany Beauty Academy,NY,private_forprofit,less-than-2-year,Brooklyn
+189413,Boricua College,NY,private_nonprofit,4-year,New York
+189468,Brittany Beauty Academy,NY,private_forprofit,less-than-2-year,Levittown
+189477,American Beauty School,NY,private_forprofit,less-than-2-year,Bronx
+189501,Brooklyn Law School,NY,private_nonprofit,4-year,Brooklyn
+189547,SUNY Broome Community College,NY,public,2-year,Binghamton
+189565,Bryant & Stratton College-Syracuse North,NY,private_nonprofit,4-year,Liverpool
+189583,Bryant & Stratton College-Buffalo,NY,private_nonprofit,4-year,Buffalo
+189592,Bryant & Stratton College-Greece,NY,private_nonprofit,4-year,Rochester
+189705,Canisius University,NY,private_nonprofit,4-year,Buffalo
+189714,Capri Cosmetology Learning Centers,NY,private_forprofit,less-than-2-year,Nanuet
+189811,St Paul's School of Nursing-Queens,NY,private_forprofit,2-year,Rego Park
+189839,Cayuga County Community College,NY,public,2-year,Auburn
+189848,Cazenovia College,NY,private_nonprofit,4-year,Cazenovia
+189857,Central Yeshiva Tomchei Tmimim Lubavitz,NY,private_nonprofit,4-year,Brooklyn
+189990,"Christine Valmy International School for Esthetics, Skin Care & Makeup",NY,private_forprofit,less-than-2-year,New York
+190008,Circle in the Square Theatre School,NY,private_nonprofit,2-year,New York
+190035,CUNY System Office,NY,public,4-year,New York
+190044,Clarkson University,NY,private_nonprofit,4-year,Potsdam
+190053,Clinton Community College,NY,public,2-year,Plattsburgh
+190071,Cochran School of Nursing,NY,private_nonprofit,2-year,Yonkers
+190080,Colgate Rochester Crozer Divinity School,NY,private_nonprofit,4-year,Rochester
+190099,Colgate University,NY,private_nonprofit,4-year,Hamilton
+190114,Metropolitan College of New York,NY,private_nonprofit,4-year,New York
+190150,Columbia University in the City of New York,NY,private_nonprofit,4-year,New York
+190169,Columbia-Greene Community College,NY,public,2-year,Hudson
+190239,Empire Beauty School-Queens,NY,private_forprofit,less-than-2-year,Astoria
+190318,Continental School of Beauty Culture-Rochester,NY,private_forprofit,less-than-2-year,Rochester
+190372,The Cooper Union for the Advancement of Science and Art,NY,private_nonprofit,4-year,New York
+190415,Cornell University,NY,private_nonprofit,4-year,Ithaca
+190424,Weill Medical College of Cornell University,NY,private_nonprofit,4-year,New York
+190442,SUNY Corning Community College,NY,public,2-year,Corning
+190451,Pomeroy College of Nursing at Crouse Hospital,NY,private_nonprofit,2-year,East Syracuse
+190503,Culinary Institute of America,NY,private_nonprofit,4-year,Hyde Park
+190512,CUNY Bernard M Baruch College,NY,public,4-year,New York
+190521,CUNY Borough of Manhattan Community College,NY,public,2-year,New York
+190530,CUNY Bronx Community College,NY,public,2-year,Bronx
+190549,CUNY Brooklyn College,NY,public,4-year,Brooklyn
+190558,College of Staten Island CUNY,NY,public,4-year,Staten Island
+190567,CUNY City College,NY,public,4-year,New York
+190576,CUNY Graduate School and University Center,NY,public,4-year,New York
+190585,CUNY Hostos Community College,NY,public,2-year,Bronx
+190594,CUNY Hunter College,NY,public,4-year,New York
+190600,CUNY John Jay College of Criminal Justice,NY,public,4-year,New York
+190619,CUNY Kingsborough Community College,NY,public,2-year,Brooklyn
+190628,CUNY LaGuardia Community College,NY,public,2-year,Long Island City
+190637,CUNY Lehman College,NY,public,4-year,Bronx
+190646,CUNY Medgar Evers College,NY,public,4-year,Brooklyn
+190655,CUNY New York City College of Technology,NY,public,4-year,Brooklyn
+190664,CUNY Queens College,NY,public,4-year,Queens
+190673,CUNY Queensborough Community College,NY,public,2-year,Bayside
+190682,CUNY School of Law,NY,public,4-year,Long Island City
+190691,CUNY York College,NY,public,4-year,Jamaica
+190707,CVPH Medical Center School of Radiologic Technology,NY,private_nonprofit,2-year,Plattsburgh
+190716,D'Youville  University,NY,private_nonprofit,4-year,Buffalo
+190725,Daemen University,NY,private_nonprofit,4-year,Amherst
+190752,Yeshiva of Far Rockaway Derech Ayson Rabbinical Seminary,NY,private_nonprofit,4-year,Far Rockaway
+190761,Dominican University New York,NY,private_nonprofit,4-year,Orangeburg
+190840,Dutchess Community College,NY,public,2-year,Poughkeepsie
+190956,Belanger School of Nursing,NY,private_nonprofit,2-year,Schenectady
+190983,Elmira College,NY,private_nonprofit,4-year,Elmira
+191083,Erie Community College,NY,public,2-year,Buffalo
+191126,Fashion Institute of Technology,NY,public,4-year,New York
+191199,Finger Lakes Community College,NY,public,2-year,Canandaigua
+191205,Five Towns College,NY,private_forprofit,4-year,Dix Hills
+191241,Fordham University,NY,private_nonprofit,4-year,Bronx
+191302,Fulton-Montgomery Community College,NY,public,2-year,Johnstown
+191311,Gemological Institute of America-New York,NY,private_nonprofit,less-than-2-year,New York
+191320,The General Theological Seminary,NY,private_nonprofit,4-year,New York
+191339,Genesee Community College,NY,public,2-year,Batavia
+191515,Hamilton College,NY,private_nonprofit,4-year,Clinton
+191533,Hartwick College,NY,private_nonprofit,4-year,Oneonta
+191597,Helene Fuld College of Nursing,NY,private_nonprofit,4-year,New York
+191612,Herkimer County Community College,NY,public,2-year,Herkimer
+191621,Hilbert College,NY,private_nonprofit,4-year,Hamburg
+191630,Hobart William Smith Colleges,NY,private_nonprofit,4-year,Geneva
+191649,Hofstra University,NY,private_nonprofit,4-year,Hempstead
+191676,Houghton University,NY,private_nonprofit,4-year,Houghton
+191719,Hudson Valley Community College,NY,public,2-year,Troy
+191728,Hunter Business School,NY,private_forprofit,2-year,Levittown
+191931,Iona University,NY,private_nonprofit,4-year,New Rochelle
+191940,Isabella Graham Hart School of Practical Nursing,NY,private_nonprofit,less-than-2-year,Rochester
+191959,Island Drafting and Technical Institute,NY,private_forprofit,2-year,Amityville
+191968,Ithaca College,NY,private_nonprofit,4-year,Ithaca
+191986,Jamestown Community College,NY,public,2-year,Jamestown
+192004,Jamestown Business College,NY,private_forprofit,4-year,Jamestown
+192022,Jefferson Community College,NY,public,2-year,Watertown
+192040,Jewish Theological Seminary of America,NY,private_nonprofit,4-year,New York
+192110,The Juilliard School,NY,private_nonprofit,4-year,New York
+192165,Kehilath Yakov Rabbinical Seminary,NY,private_nonprofit,4-year,Ossining
+192192,Keuka College,NY,private_nonprofit,4-year,Keuka Park
+192271,LIM College,NY,private_forprofit,4-year,New York
+192323,Le Moyne College,NY,private_nonprofit,4-year,Syracuse
+192448,Long Island University,NY,private_nonprofit,4-year,Brookville
+192484,Long Island Beauty School-Hempstead,NY,private_forprofit,less-than-2-year,Hempstead
+192509,Long Island Business Institute,NY,private_forprofit,2-year,Flushing
+192624,Machzikei Hadath Rabbinical College,NY,private_nonprofit,4-year,Brooklyn
+192688,Mandl School-The College of Allied Health,NY,private_forprofit,2-year,New York
+192703,Manhattan College,NY,private_nonprofit,4-year,Riverdale
+192712,Manhattan School of Music,NY,private_nonprofit,4-year,New York
+192749,Manhattanville College,NY,private_nonprofit,4-year,Purchase
+192785,Maria College of Albany,NY,private_nonprofit,4-year,Albany
+192800,Marion S Whelan School of Nursing of Geneva General Hospital,NY,private_nonprofit,less-than-2-year,Geneva
+192819,Marist College,NY,private_nonprofit,4-year,Poughkeepsie
+192864,Marymount Manhattan College,NY,private_nonprofit,4-year,New York
+192925,Medaille University,NY,private_nonprofit,4-year,Buffalo
+192961,St. Peter's Hospital College of Nursing,NY,private_nonprofit,2-year,Albany
+192970,Memorial Hospital School of Radiation Therapy Technology,NY,private_nonprofit,2-year,New York
+193016,Mercy University,NY,private_nonprofit,4-year,Dobbs Ferry
+193052,Mesivta Torah Vodaath Rabbinical Seminary,NY,private_nonprofit,4-year,Brooklyn
+193061,Mesivta of Eastern Parkway-Yeshiva Zichron Meilech,NY,private_nonprofit,4-year,Brooklyn
+193070,Mesivtha Tifereth Jerusalem of America,NY,private_nonprofit,4-year,New York
+193186,Midway Paris Beauty School,NY,private_forprofit,less-than-2-year,Ridgewood
+193201,Mildred Elley School-Albany Campus,NY,private_forprofit,2-year,Albany
+193247,Mirrer Yeshiva Cent Institute,NY,private_nonprofit,4-year,Brooklyn
+193265,Modern Welding School,NY,private_forprofit,less-than-2-year,Schenectady
+193283,Mohawk Valley Community College,NY,public,2-year,Utica
+193292,Molloy College,NY,private_nonprofit,4-year,Rockville Centre
+193308,Monroe College,NY,private_forprofit,4-year,Bronx
+193326,Monroe Community College,NY,public,2-year,Rochester
+193353,Mount Saint Mary College,NY,private_nonprofit,4-year,Newburgh
+193380,Montefiore School of Nursing,NY,private_nonprofit,2-year,Mount Vernon
+193399,University of Mount Saint Vincent,NY,private_nonprofit,4-year,Bronx
+193405,Icahn School of Medicine at Mount Sinai,NY,private_nonprofit,4-year,New York
+193478,Nassau Community College,NY,public,2-year,Garden City
+193584,Nazareth University,NY,private_nonprofit,4-year,Rochester
+193609,Neighborhood Playhouse School of the Theater,NY,private_nonprofit,2-year,New York City
+193654,The New School,NY,private_nonprofit,4-year,New York
+193672,The New School Center for Media,NY,private_forprofit,less-than-2-year,New York
+193751,Northeast College of Health Sciences,NY,private_nonprofit,4-year,Seneca Falls
+193821,New York Law School,NY,private_nonprofit,4-year,New York
+193830,New York Medical College,NY,private_nonprofit,4-year,Valhalla
+193858,New York School for Medical and Dental Assistants,NY,private_forprofit,2-year,Long Island City
+193894,New York Theological Seminary,NY,private_nonprofit,4-year,New York
+193900,New York University,NY,private_nonprofit,4-year,New York
+193946,Niagara County Community College,NY,public,2-year,Sanborn
+193973,Niagara University,NY,private_nonprofit,4-year,Niagara University
+193991,Empire Beauty School-Peekskill,NY,private_forprofit,less-than-2-year,Peekskill
+194028,North Country Community College,NY,public,2-year,Saranac Lake
+194073,New York College of Podiatric Medicine,NY,private_nonprofit,4-year,New York
+194091,New York Institute of Technology,NY,private_nonprofit,4-year,Old Westbury
+194116,New York School of Interior Design,NY,private_nonprofit,4-year,New York
+194161,Alliance University,NY,private_nonprofit,4-year,New York
+194189,Ohr Hameir Theological Seminary,NY,private_nonprofit,4-year,Peekskill
+194222,Onondaga Community College,NY,public,2-year,Syracuse
+194240,Orange County Community College,NY,public,2-year,Middletown
+194259,Otsego Area BOCES-Practical Nursing Program,NY,public,less-than-2-year,Oneonta
+194310,Pace University,NY,private_nonprofit,4-year,New York
+194392,Paul Smiths College of Arts and Science,NY,private_nonprofit,4-year,Paul Smiths
+194435,Continental School of Beauty Culture-West Seneca,NY,private_forprofit,less-than-2-year,West Seneca
+194499,Plaza College,NY,private_forprofit,4-year,Forest Hills
+194569,Davis College,NY,private_nonprofit,4-year,Pottersville
+194578,Pratt Institute-Main,NY,private_nonprofit,4-year,Brooklyn
+194657,Rabbinical Academy Mesivta Rabbi Chaim Berlin,NY,private_nonprofit,4-year,Brooklyn
+194666,Rabbinical College Bobover Yeshiva Bnei Zion,NY,private_nonprofit,4-year,Brooklyn
+194693,Rabbinical College Beth Shraga,NY,private_nonprofit,4-year,Monsey
+194718,Rabbinical Seminary Mkor Chaim,NJ,private_nonprofit,4-year,Lakewood
+194736,Rabbinical College of Long Island,NY,private_nonprofit,4-year,Long Beach
+194763,Rabbinical Seminary of America,NY,private_nonprofit,4-year,Flushing
+194824,Rensselaer Polytechnic Institute,NY,private_nonprofit,4-year,Troy
+194958,Roberts Wesleyan University,NY,private_nonprofit,4-year,Rochester
+195003,Rochester Institute of Technology,NY,private_nonprofit,4-year,Rochester
+195030,University of Rochester,NY,private_nonprofit,4-year,Rochester
+195049,The Rockefeller University,NY,private_nonprofit,4-year,New York
+195058,Rockland Community College,NY,public,2-year,Suffern
+195067,Empire Beauty School-Manhattan,NY,private_forprofit,less-than-2-year,New York
+195128,Russell Sage College,NY,private_nonprofit,4-year,Troy
+195155,St Bernard's School of Theology and Ministry,NY,private_nonprofit,4-year,Rochester
+195164,St Bonaventure University,NY,private_nonprofit,4-year,Saint Bonaventure
+195173,St. Francis College,NY,private_nonprofit,4-year,Brooklyn
+195191,St. Joseph's College of Nursing,NY,private_nonprofit,2-year,Syracuse
+195216,St Lawrence University,NY,private_nonprofit,4-year,Canton
+195234,The College of Saint Rose,NY,private_nonprofit,4-year,Albany
+195243,St. Thomas Aquinas College,NY,private_nonprofit,4-year,Sparkill
+195289,Samaritan Hospital School of Nursing,NY,private_nonprofit,2-year,Troy
+195304,Sarah Lawrence College,NY,private_nonprofit,4-year,Bronxville
+195322,Schenectady County Community College,NY,public,2-year,Schenectady
+195438,Sh'or Yoshuv Rabbinical College,NY,private_nonprofit,4-year,Lawrence
+195474,Siena College,NY,private_nonprofit,4-year,Loudonville
+195526,Skidmore College,NY,private_nonprofit,4-year,Saratoga Springs
+195544,St. Joseph's University-New York,NY,private_nonprofit,4-year,Brooklyn
+195580,Saint Vladimirs Orthodox Theological Seminary,NY,private_nonprofit,4-year,Yonkers
+195702,Saint Elizabeth College of Nursing,NY,private_nonprofit,2-year,Utica
+195720,St. John Fisher University,NY,private_nonprofit,4-year,Rochester
+195784,St Paul's School of Nursing-Staten Island,NY,private_forprofit,2-year,Staten Island
+195809,St. John's University-New York,NY,private_nonprofit,4-year,Queens
+195827,SUNY-System Office,NY,public,4-year,Albany
+195988,Sullivan County Community College,NY,public,2-year,Loch Sheldrake
+196006,SUNY College of Technology at Alfred,NY,public,4-year,Alfred
+196015,SUNY College of Technology at Canton,NY,public,4-year,Canton
+196024,SUNY College of Technology at Delhi,NY,public,4-year,Delhi
+196033,SUNY College of Agriculture and Technology at Cobleskill,NY,public,4-year,Cobleskill
+196042,Farmingdale State College,NY,public,4-year,Farmingdale
+196051,SUNY Morrisville,NY,public,4-year,Morrisville
+196060,University at Albany,NY,public,4-year,Albany
+196079,Binghamton University,NY,public,4-year,Vestal
+196088,University at Buffalo,NY,public,4-year,Buffalo
+196097,Stony Brook University,NY,public,4-year,Stony Brook
+196103,SUNY College of Environmental Science and Forestry,NY,public,4-year,Syracuse
+196112,SUNY Polytechnic Institute,NY,public,4-year,Utica
+196121,SUNY Brockport,NY,public,4-year,Brockport
+196130,SUNY Buffalo State University,NY,public,4-year,Buffalo
+196149,State University of New York at Cortland,NY,public,4-year,Cortland
+196158,SUNY at Fredonia,NY,public,4-year,Fredonia
+196167,SUNY College at Geneseo,NY,public,4-year,Geneseo
+196176,State University of New York at New Paltz,NY,public,4-year,New Paltz
+196185,SUNY Oneonta,NY,public,4-year,Oneonta
+196194,State University of New York at Oswego,NY,public,4-year,Oswego
+196200,SUNY College at Potsdam,NY,public,4-year,Potsdam
+196219,SUNY at Purchase College,NY,public,4-year,Purchase
+196228,SUNY College of Optometry,NY,public,4-year,New York
+196237,SUNY Old Westbury,NY,public,4-year,Old Westbury
+196246,SUNY College at Plattsburgh,NY,public,4-year,Plattsburgh
+196255,SUNY Downstate Health Sciences University,NY,public,4-year,Brooklyn
+196264,Empire State University,NY,public,4-year,Saratoga Springs
+196291,SUNY Maritime College,NY,public,4-year,Throggs Neck
+196307,Upstate Medical University,NY,public,4-year,Syracuse
+196389,Swedish Institute a College of Health Sciences,NY,private_forprofit,2-year,New York
+196413,Syracuse University,NY,private_nonprofit,4-year,Syracuse
+196431,Talmudical Seminary Oholei Torah,NY,private_nonprofit,4-year,Brooklyn
+196440,Talmudical Institute of Upstate New York,NY,private_nonprofit,4-year,Rochester
+196468,Teachers College at Columbia University,NY,private_nonprofit,4-year,New York
+196565,Tompkins Cortland Community College,NY,public,2-year,Dryden
+196583,Torah Temimah Talmudical Seminary,NY,private_nonprofit,4-year,Staten Island
+196592,Touro University,NY,private_nonprofit,4-year,New York
+196653,Trocaire College,NY,private_nonprofit,4-year,Buffalo
+196680,Excelsior University,NY,private_nonprofit,4-year,Albany
+196699,Ulster County Community College,NY,public,2-year,Stone Ridge
+196866,Union College,NY,private_nonprofit,4-year,Schenectady
+196884,Union Theological Seminary in the City of New York,NY,private_nonprofit,4-year,New York
+197018,United Talmudical Seminary,NY,private_nonprofit,4-year,Brooklyn
+197027,United States Merchant Marine Academy,NY,public,4-year,Kings Point
+197036,United States Military Academy,NY,public,4-year,West  Point
+197045,Utica University,NY,private_nonprofit,4-year,Utica
+197133,Vassar College,NY,private_nonprofit,4-year,Poughkeepsie
+197142,Villa Maria College,NY,private_nonprofit,4-year,Buffalo
+197151,School of Visual Arts,NY,private_forprofit,4-year,New York
+197197,Wagner College,NY,private_nonprofit,4-year,Staten Island
+197221,Webb Institute,NY,private_nonprofit,4-year,Glen Cove
+197230,Wells College,NY,private_nonprofit,4-year,Aurora
+197285,The College of Westchester,NY,private_forprofit,4-year,White Plains
+197294,SUNY Westchester Community College,NY,public,2-year,Valhalla
+197337,Westchester School of Beauty Culture,NY,private_forprofit,less-than-2-year,Mount Vernon
+197531,Word of Life Bible Institute,NY,private_nonprofit,2-year,Pottersville
+197601,Yeshiva Karlin Stolin,NY,private_nonprofit,4-year,Brooklyn
+197647,Yeshiva Derech Chaim,NY,private_nonprofit,4-year,Brooklyn
+197674,Yeshiva of Nitra Rabbinical College,NY,private_nonprofit,4-year,Chester
+197692,Yeshivath Shaar Hatorah,NY,private_nonprofit,4-year,Kew Gardens
+197708,Yeshiva University,NY,private_nonprofit,4-year,New York
+197735,Yeshivath Viznitz,NY,private_nonprofit,4-year,Monsey
+197744,Yeshivath Zichron Moshe,NY,private_nonprofit,4-year,South Fallsburg
+203067,Hebrew Union College-Jewish Institute of Religion,NY,private_nonprofit,4-year,New York
+245625,Warren County Community College,NJ,public,2-year,Washington
+245777,Bais Medrash Elyon,NY,private_nonprofit,4-year,Monsey
+246789,HJ International Graduate School for Peace and Public Leadership,NY,private_nonprofit,4-year,New York
+247603,Sussex County Community College,NJ,public,2-year,Newton
+363077,Capri Institute of Hair Design-Clifton,NJ,private_forprofit,less-than-2-year,Clifton
+364964,"Center for Instruction, Technology & Innovation",NY,public,less-than-2-year,Mexico
+365763,Morris County Vocational School District,NJ,public,less-than-2-year,Denville
+366368,New York Academy of Art,NY,private_nonprofit,4-year,New York
+366395,Suffolk County Community College,NY,public,2-year,Selden
+367334,National Tractor Trailer School Inc-Liverpool,NY,private_forprofit,less-than-2-year,Liverpool
+368230,Empire Beauty School-Bloomfield,NJ,private_forprofit,less-than-2-year,Bloomfield
+374574,Lincoln Technical Institute-Moorestown,NJ,private_forprofit,less-than-2-year,Moorestown
+374592,MCVSD,NJ,public,less-than-2-year,Freehold
+375106,National Tractor Trailer School Inc-Buffalo,NY,private_forprofit,less-than-2-year,Buffalo
+375230,Yeshiva Gedolah Imrei Yosef D'spinka,NY,private_nonprofit,4-year,Brooklyn
+379621,Madison Oneida BOCES-Practical Nursing Program,NY,public,less-than-2-year,Verona
+383279,Robert Fiance Beauty Schools-North Plainfield,NJ,private_forprofit,less-than-2-year,North Plainfield
+383297,Long Island Beauty School-Hauppauge,NY,private_forprofit,less-than-2-year,Hauppauge
+383525,Erie 2 Chautauqua Cattaraugus BOCES-Practical Nursing Program,NY,public,less-than-2-year,Angola
+383765,Empire Beauty School-Brooklyn,NY,private_forprofit,less-than-2-year,Brooklyn
+384421,Rabbi Jacob Joseph School,NJ,private_nonprofit,4-year,Edison
+385415,Albert Einstein College of Medicine,NY,private_nonprofit,4-year,Bronx
+386153,Seminar L'moros Bais Yaakov,NY,private_nonprofit,2-year,Brooklyn
+392354,"School of Professional Horticulture, New York Botanical Garden",NY,private_nonprofit,2-year,Bronx
+404994,ASA College,NY,private_forprofit,4-year,Brooklyn
+405058,Yeshivas Novominsk,NY,private_nonprofit,4-year,Brooklyn
+405854,Rabbinical College of Ohr Shimon Yisroel,NY,private_nonprofit,4-year,Brooklyn
+406325,Schuyler Steuben Chemung Tioga Allegany BOCES,NY,public,less-than-2-year,Elmira
+406361,Delaware Chenango Madison Otsego BOCES-Practical Nursing Program,NY,public,less-than-2-year,Norwich
+407391,Capri Institute of Hair Design-Brick,NJ,private_forprofit,less-than-2-year,Brick
+407407,Capri Institute of Hair Design-Kenilworth,NJ,private_forprofit,less-than-2-year,Kenilworth
+407425,Capri Institute of Hair Design-Paramus,NJ,private_forprofit,less-than-2-year,Paramus
+407434,Orlo School of Hair Design and Cosmetology,NY,private_forprofit,less-than-2-year,Albany
+412544,Shear Ego International School of Hair Design,NY,private_forprofit,less-than-2-year,Rochester
+414063,Artistic Academy of Hair Design,NJ,private_forprofit,less-than-2-year,Morris Plains
+414595,Pacific College of Health and Science,NY,private_forprofit,4-year,New York
+415987,Allen School-Jamaica,NY,private_forprofit,less-than-2-year,Jamaica
+417831,Union County Vocational Technical School,NJ,public,less-than-2-year,Scotch Plains
+417868,Clinton Essex Warren Washington BOCES,NY,public,less-than-2-year,Plattsburgh
+417886,Jefferson Lewis BOCES-Practical Nursing Program,NY,public,less-than-2-year,Watertown
+417910,Veeb Nassau County School of Practical Nursing,NY,public,less-than-2-year,Hicksville
+417983,Cattaraugus Allegany BOCES-Practical Nursing Program,NY,public,less-than-2-year,Olean
+417992,Orange Ulster BOCES-Practical Nursing Program,NY,public,less-than-2-year,Newburgh
+418001,Wayne Finger Lakes BOCES-Practical Nursing Program,NY,public,less-than-2-year,Newark
+418010,Broome Delaware Tioga BOCES-Practical Nursing Program,NY,public,less-than-2-year,Endicott
+418029,Washington Saratoga Warren Hamilton Essex BOCES-Practical Nursing Program,NY,public,less-than-2-year,Hudson Falls
+418038,Albany BOCES-Adult Practical Nursing Program,NY,public,less-than-2-year,Albany
+418056,Ulster BOCES-School of Practical Nursing,NY,public,less-than-2-year,Port Ewen
+418065,Eastern Suffolk BOCES,NY,public,less-than-2-year,Sayville
+418083,Rockland County BOCES-Practical Nursing Program,NY,public,less-than-2-year,West Nyack
+418126,New York College of Health Professions,NY,private_nonprofit,4-year,Syosset
+418171,Charles Stuart School of Diamond Setting,NY,private_forprofit,less-than-2-year,Brooklyn
+420130,Prism Career Institute-Cherry Hill,NJ,private_forprofit,less-than-2-year,Cherry Hill
+420325,Yeshiva D'monsey Rabbinical College,NY,private_nonprofit,4-year,Monsey
+420343,Lincoln Technical Institute-Mahwah,NJ,private_forprofit,2-year,Mahwah
+420468,Western Suffolk BOCES,NY,public,2-year,Northport
+420981,Manhattan School of Computer Technology,NY,private_nonprofit,2-year,Brooklyn
+421841,New York Conservatory for Dramatic Arts,NY,private_forprofit,2-year,New York
+421878,Eastern International College-Jersey City,NJ,private_forprofit,4-year,Jersey City
+427308,Merkaz Bnos-Business School,NY,private_nonprofit,2-year,Brooklyn
+427335,Lia Schorr Institute of Cosmetic Skin Care Training,NY,private_forprofit,less-than-2-year,New York
+430403,Prism Career Institute-West Atlantic City,NJ,private_forprofit,less-than-2-year,West  Atlantic City
+430564,Studio Jewelers,NY,private_forprofit,less-than-2-year,New York
+430883,Cayuga Onondaga BOCES-Practical Nursing Program,NY,public,less-than-2-year,Auburn
+431071,New York Institute of Massage Inc,NY,private_forprofit,less-than-2-year,Williamsville
+431105,Dutchess BOCES-Practical Nursing Program,NY,public,less-than-2-year,Poughkeepsie
+431196,Genesee Valley BOCES-Practical Nursing Program,NY,public,less-than-2-year,Batavia
+431275,Herkimer County BOCES-Practical Nursing Program,NY,public,less-than-2-year,Herkimer
+431716,Ocean County Vocational-Technical School,NJ,public,less-than-2-year,Toms River
+431983,Yeshiva of the Telshe Alumni,NY,private_nonprofit,4-year,Riverdale
+436003,Central Career Institute LLC,NJ,private_forprofit,less-than-2-year,South Plainfield
+437723,New Community Career & Technical Institute,NJ,private_nonprofit,less-than-2-year,Newark
+439622,Erie 1 BOCES,NY,public,less-than-2-year,West Seneca
+439783,New York College of Traditional Chinese Medicine,NY,private_nonprofit,4-year,Mineola
+439817,Northeastern Seminary,NY,private_nonprofit,4-year,Rochester
+440262,New York Automotive and Diesel Institute,NY,private_forprofit,2-year,Jamaica
+440730,Onondaga Cortland Madison BOCES,NY,public,less-than-2-year,Liverpool
+440794,Pillar College,NJ,private_nonprofit,4-year,Newark
+441548,Institute for Therapeutic Massage,NJ,private_forprofit,less-than-2-year,HASKELL
+441575,Metropolitan Learning Institute,NY,private_nonprofit,less-than-2-year,Rego Park
+441593,Orleans Niagara BOCES-Practical Nursing Program,NY,public,less-than-2-year,Lockport
+441609,Yeshiva Shaarei Torah of Rockland,NY,private_nonprofit,4-year,Suffern
+441618,Leon Studio One School of Beauty Knowledge,NY,private_forprofit,less-than-2-year,Williamsville
+442073,Lincoln Technical Institute-Paramus,NJ,private_forprofit,less-than-2-year,Paramus
+443216,P C Age-Jersey City,NJ,private_forprofit,less-than-2-year,Jersey City
+443225,PC AGE-Metropark,NJ,private_forprofit,less-than-2-year,Iselin
+444413,Beis Medrash Heichal Dovid,NY,private_nonprofit,4-year,Far Rockaway
+446224,Eastern School of Acupuncture and Traditional Medicine,NJ,private_forprofit,4-year,Bloomfield
+446303,Healthcare Training Institute,NJ,private_forprofit,2-year,Union
+446604,Uta Mesivta of Kiryas Joel,NY,private_nonprofit,4-year,Monroe
+448071,Aveda Arts & Sciences Institute-New York,NY,private_forprofit,less-than-2-year,New York
+448354,Eastern International College-Belleville,NJ,private_forprofit,4-year,Belleville
+449311,Brittany Beauty Academy,NY,private_forprofit,less-than-2-year,Bronx
+449320,Lincoln Technical Institute-Whitestone,NY,private_forprofit,less-than-2-year,Whitestone
+449658,Bais Medrash Toras Chesed,NJ,private_nonprofit,4-year,Lakewood
+449676,Ace Institute of Technology,NY,private_forprofit,2-year,New York
+449685,New Age Training,NY,private_forprofit,less-than-2-year,New York
+451370,Yeshivas Be'er Yitzchok,NJ,private_nonprofit,4-year,Elizabeth
+451398,Yeshiva Toras Chaim,NJ,private_nonprofit,4-year,Lakewood
+451404,Talmudical Seminary of Bobov,NY,private_nonprofit,4-year,Brooklyn
+451413,Center for Allied Health Education,NY,private_forprofit,2-year,Brooklyn
+451459,Monroe 2 Orleans BOCES-Center for Workforce Development,NY,public,less-than-2-year,Spencerport
+453215,Strayer University-New Jersey,NJ,private_forprofit,4-year,Piscataway
+454184,The King's College,NY,private_nonprofit,4-year,New York
+455187,Total Image Beauty Academy,NJ,private_forprofit,less-than-2-year,Union City
+455196,Jersey College,NJ,private_forprofit,2-year,Teterboro
+455202,American Institute of Medical Sciences & Education,NJ,private_forprofit,2-year,Piscataway
+455220,Career School of NY,NY,private_nonprofit,less-than-2-year,Staten Island
+455257,Yeshiva of Machzikai Hadas,NY,private_nonprofit,4-year,Brooklyn
+457767,National Career Institute,NJ,private_forprofit,less-than-2-year,East Orange
+457794,EDP School,NY,private_nonprofit,less-than-2-year,Brooklyn
+457800,New York Medical Career Training Center,NY,private_forprofit,2-year,Flushing
+457819,Institute of Culinary Education,NY,private_forprofit,less-than-2-year,New York
+457837,The Salon Professional Academy-Tonawanda,NY,private_forprofit,less-than-2-year,Tonawanda
+457855,Paul Mitchell the School-NYC,NY,private_forprofit,less-than-2-year,Staten Island
+459462,SAE Institute of Technology-New York,NY,private_forprofit,less-than-2-year,New York
+461014,Mildred Elley-New York Campus,NY,private_forprofit,2-year,New York
+461768,Atelier Esthetique Institute of Esthetics,NY,private_forprofit,less-than-2-year,New York
+461838,Long Island Nail Skin & Hair Institute,NY,private_forprofit,less-than-2-year,Bethpage
+461847,Keser Torah-Mayan Hatalmud,NJ,private_nonprofit,4-year,Lakewood
+461865,Best Care College,NJ,private_forprofit,2-year,East Orange
+467094,Continental School of Beauty Culture-Mattydale,NY,private_forprofit,less-than-2-year,Mattydale
+475024,Fortis Institute-Lawrenceville,NJ,private_forprofit,less-than-2-year,Lawrenceville
+475033,Relay Graduate School of Education,NY,private_nonprofit,4-year,New York
+475404,New York School of Esthetics & Day Spa,NY,private_forprofit,less-than-2-year,white plains
+475422,Finger Lakes Health College of Nursing & Health Sciences,NY,private_nonprofit,2-year,Geneva
+475431,ASI Career Institute,NJ,private_forprofit,less-than-2-year,Turnersville
+475468,Christine Valmy International School of Esthetics & Cosmetology,NJ,private_forprofit,less-than-2-year,Pine Brook
+475565,CUNY Stella and Charles Guttman Community College,NY,public,2-year,New York
+476355,Miami Ad School-New York,NY,private_forprofit,2-year,Astoria
+476610,Barber & Beauty Institute of New York,NY,private_forprofit,less-than-2-year,Hempstead
+476692,Yeshiva Gedolah Zichron Leyma,NJ,private_nonprofit,4-year,Union
+476717,Be'er Yaakov Talmudic Seminary,NY,private_nonprofit,4-year,Spring Valley
+476878,Aesthetic Science Institute,NY,private_forprofit,less-than-2-year,Latham
+479965,Medical Career Institute,NJ,private_forprofit,2-year,Ocean
+480028,Digital Film Academy,NY,private_forprofit,2-year,New York
+480091,Bryant & Stratton College-Online,NY,private_nonprofit,4-year,Orchard Park
+481094,Sotheby's Institute of Art-NY,NY,private_forprofit,4-year,New York
+481243,New York Institute of Beauty,NY,private_forprofit,less-than-2-year,Islandia
+481331,Sharp Edgez Barber Institute,NY,private_forprofit,less-than-2-year,Rochester
+481410,Yeshiva Gedolah Kesser Torah,NY,private_nonprofit,4-year,Monsey
+481429,Universal Training Institute,NJ,private_forprofit,less-than-2-year,Perth Amboy
+481438,Yeshiva Yesodei Hatorah,NJ,private_nonprofit,4-year,Lakewood
+481447,Center for the Healing Arts,NJ,private_forprofit,less-than-2-year,Voorhees
+481508,Paul Mitchell the School-Jersey Shore,NJ,private_forprofit,less-than-2-year,Brick
+481845,Empire Beauty School-Rochester,NY,private_forprofit,less-than-2-year,Rochester
+482194,Arrojo Cosmetology School,NY,private_forprofit,less-than-2-year,New York
+482413,DeVry College of New York,NY,private_forprofit,4-year,New York
+482556,DeVry University-New Jersey,NJ,private_forprofit,4-year,Iselin
+482963,American Institute-Toms River,NJ,private_forprofit,2-year,Toms River
+483106,Innovate Salon Academy,NJ,private_forprofit,less-than-2-year,South Plainfield
+483382,Electrical and HVAC/R Training Center,NY,private_forprofit,less-than-2-year,Copiague
+483708,Access Careers,NY,private_forprofit,less-than-2-year,Hempstead
+483841,Grace International Beauty School,NY,private_forprofit,less-than-2-year,Flushing
+483850,Alliance Computing Solutions,NY,private_forprofit,less-than-2-year,Flushing
+484011,Paul Mitchell the School-Schenectady,NY,private_forprofit,less-than-2-year,Schenectady
+484871,Rabbinical College Ohr Yisroel,NY,private_nonprofit,4-year,Brooklyn
+485014,Empire Beauty School-Buffalo,NY,private_forprofit,less-than-2-year,Cheektowaga
+485801,Westchester School for Medical & Dental Assistants,NY,private_forprofit,less-than-2-year,Ardsley
+485999,Bet Medrash Gadol Ateret Torah,NY,private_nonprofit,4-year,Brooklyn
+486017,Yeshiva Ohr Yisrael,NY,private_nonprofit,4-year,Brooklyn
+486026,Yeshiva Sholom Shachna,NY,private_nonprofit,4-year,Brooklyn
+486080,Elmezzi Graduate School of Molecular Medicine,NY,private_nonprofit,4-year,Manhasset
+486196,Beth Medrash Meor Yitzchok,NY,private_nonprofit,4-year,Monsey
+486381,Center for Ultrasound Research & Education,NY,private_forprofit,2-year,White Plains
+486390,Culinary Tech Center,NY,private_forprofit,less-than-2-year,White Plains
+486415,AMG School of Nursing,NY,private_forprofit,2-year,Brooklyn
+486877,Eastern Suffolk BOCES,NY,public,less-than-2-year,Riverhead
+486886,Eastern Suffolk BOCES,NY,public,less-than-2-year,Oakdale
+486956,Chamberlain University-New Jersey,NJ,private_forprofit,4-year,North Brunswick
+487746,Yeshiva Zichron Aryeh,NY,private_nonprofit,4-year,Far Rockaway
+487852,American Institute of Alternative Medicine,NJ,private_forprofit,less-than-2-year,East Brunswick
+488004,Central Yeshiva Beth Joseph,NY,private_nonprofit,4-year,Brooklyn
+488013,Garden State Science and Technology Institute,NJ,private_forprofit,less-than-2-year,Jersey City
+488101,Yeshivas Maharit D'Satmar,NY,private_nonprofit,4-year,Monroe
+488253,Focus Personal Training Institute,NY,private_forprofit,less-than-2-year,New York
+488305,Elim Bible Institute and College,NY,private_nonprofit,4-year,Lima
+488314,Beth Medrash of Asbury Park,NJ,private_nonprofit,4-year,Lakewood
+488350,Yeshiva Gedolah Shaarei Shmuel,NJ,private_nonprofit,4-year,Lakewood
+490249,Mobile Technical Training,NJ,private_forprofit,less-than-2-year,South Hackensack
+490276,Yeshiva Shaar Ephraim,NY,private_nonprofit,4-year,Monsey
+490300,Cutting Edge Academy,NJ,private_forprofit,less-than-2-year,Succasunna
+490319,Yeshiva Bais Aharon,NJ,private_nonprofit,4-year,Lakewood
+490328,Mechon L'hoyroa,NY,private_nonprofit,4-year,Monsey
+490346,Elyon College,NY,private_nonprofit,2-year,Brooklyn
+490504,Yeshiva Ohr Naftoli,NY,private_nonprofit,4-year,New Windsor
+490513,Bais Medrash Mayan Hatorah,NJ,private_nonprofit,4-year,Lakewood
+490869,American Institute-Somerset,NJ,private_forprofit,2-year,Somerset
+490896,Advantage Career Institute,NJ,private_forprofit,less-than-2-year,Eatontown
+491057,Yeshiva Kollel Tifereth Elizer,NY,private_nonprofit,4-year,Brooklyn
+491446,Bnos Zion Of Bobov Seminary,NY,private_nonprofit,2-year,Brooklyn
+491613,Yeshiva Gedolah Tiferes Boruch,NJ,private_nonprofit,4-year,North Plainfield
+491622,Yeshiva Chemdas Hatorah,NJ,private_nonprofit,4-year,Lakewood
+491640,Yeshiva Gedolah Keren Hatorah,NJ,private_nonprofit,4-year,Lakewood
+491710,Yeshiva Gedolah of Cliffwood,NJ,private_nonprofit,4-year,Keyport
+491765,Yeshivas Emek Hatorah,NJ,private_nonprofit,4-year,Howell
+491774,Transitions Career Institute School of Nursing,NY,private_forprofit,less-than-2-year,Flushing
+491817,Seminary Bnos Chaim,NJ,private_nonprofit,2-year,Lakewood
+491914,Yeshiva Gedola Tiferes Yerachmiel,NJ,private_nonprofit,4-year,Lakewood
+491969,Anousheh School of Hair,NY,private_forprofit,less-than-2-year,Binghamton
+492731,Innovate Salon Academy,NJ,private_forprofit,less-than-2-year,Ewing
+493132,Universal Technical Institute-Bloomfield,NJ,private_forprofit,2-year,Bloomfield
+493594,Yeshiva of Ocean,NY,private_nonprofit,4-year,Greenfield Park
+493600,Congregation Talmidei Mesivta Tiferes Shmiel Aleksander,NY,private_nonprofit,4-year,Brooklyn
+493628,Pro Beauty Academy,NJ,private_forprofit,less-than-2-year,Edison
+493646,Ohel Margulia Seminary,NY,private_nonprofit,2-year,Monsey
+493664,Yeshivat Hechal Shemuel,NY,private_nonprofit,4-year,Brooklyn
+493707,Yeshiva Gedolah of Woodlake Village,NJ,private_nonprofit,4-year,Lakewood
+493716,Yeshiva Gedola Tiferes Yaakov Yitzchok,NJ,private_nonprofit,4-year,Lakewood
+493798,New York Seminary,NY,private_nonprofit,2-year,Brooklyn
+494463,Derech Hachaim Seminary,NY,private_nonprofit,2-year,Monroe
+494551,Glasgow Caledonian New York College,NY,private_nonprofit,4-year,New York
+494737,Yeshiva Yesoda Hatorah Vetz Chaim,NY,private_nonprofit,4-year,Brooklyn
+494904,Access Careers-Islandia,NY,private_forprofit,less-than-2-year,Islandia
+495031,Bais Medrash of Dexter Park,NY,private_nonprofit,4-year,Chestnut Ridge
+495138,Professional Culinary Academy,NY,private_forprofit,less-than-2-year,Buffalo
+495165,Royal Learning Institute,NY,private_forprofit,less-than-2-year,New York
+495314,Hackensack Meridian School of Medicine,NJ,private_nonprofit,4-year,Nutley
+495396,Royal Learning Institute,NY,private_forprofit,less-than-2-year,Jackson Heights
+496645,Burlington County Institute of Technology-Adult Education,NJ,public,less-than-2-year,Westampton
+497329,American Institute-Cherry Hill,NJ,private_forprofit,less-than-2-year,Cherry Hill
+497426,Salon Professional Academy,NJ,private_forprofit,less-than-2-year,Howell
+497718,Academy for Jewish Religion,NY,private_nonprofit,4-year,Yonkers
+498137,"Bard College - New York Public Library, Countee Cullen Branch",NY,,,New York
+498146,Bard College - Bard Globalization and International Affairs Program,NY,,,New York
+498438,Bard College - Albion Correctional Facility,NY,,,Albion
+498809,Yeshiva of Kasho,NY,private_nonprofit,4-year,Brooklyn
+498906,Yeshivas Sanz Klauzenburg,NY,private_nonprofit,4-year,Brooklyn
+499130,Innovate Salon Academy,NJ,private_forprofit,less-than-2-year,Brick Township
+499547,Austin Medical Assistant Training,NY,private_forprofit,2-year,Forest Hills
