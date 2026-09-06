@@ -1,71 +1,49 @@
 # IPEDS BI Practice
 
-Weekend SQL + SSRS drill kit for Fordham-style technical rounds (live SQL, CTEs, windows, SSRS report build).
+Sunday SQL and Monday SSRS drill kit for Fordham-style technical rounds.
 
 Data source: [IPEDS Complete Data Files](https://nces.ed.gov/ipeds/datacenter/DataFiles.aspx) (NCES).
 
-## What's already built
-
-| Path | Purpose |
-|------|---------|
-| `ipeds_practice.sqlite` | Ready-to-query practice DB |
-| `data/clean/*.csv` | Full clean tables |
-| `data/clean/*_nynj.csv` | NY/NJ subset for lighter SSRS import |
-| `data/raw/` | Downloaded IPEDS zips + extracts (gitignored; large) |
-| `sql/prompts.sql` | 5 timed drills |
-| `sql/solutions.sql` | Answers — peek after attempting |
-| `ssrs/CHECKLIST.md` | Sunday SSRS rebuild |
-
-### Tables
-
-- **institutions** — `unitid`, `inst_name`, `state_abbr`, `control`, `level`, `city`
-- **enrollment** — `unitid`, `year`, `ft_ug`, `pt_ug`, `ug_total`, `grad_enroll` (2022–2023). Includes **25 seeded duplicate** `unitid`+`year` rows for dedupe practice.
-- **completions** — `unitid`, `year`, `award_level`, `count`
-
-`control`: `public` | `private_nonprofit` | `private_forprofit`  
-`level`: `4-year` | `2-year` | `less-than-2-year`
-
-## Saturday — SQL
+## Sunday
 
 ```bash
-cd ~/Sites/ipeds-bi-practice
-sqlite3 ipeds_practice.sqlite
+make practice
 ```
 
-Or open the DB in DB Browser for SQLite / VS Code.
+That runs `make doctor`, then opens sqlite3 with headers and a timer. Or run the steps apart:
 
 ```bash
-# run prompts file in your editor; attempt each in 15 minutes
-open sql/prompts.sql
+make doctor
+make sql
 ```
 
-Smoke test:
+`doctor: OK` means tools, row counts, Fordham smoke (`9863` / `444` / `10307`), 25 seeded enrollment dupes, and `sql/solutions.sql` all checked out.
 
-```sql
-SELECT i.inst_name, e.year, e.ft_ug, e.pt_ug, e.ug_total
-FROM enrollment e
-JOIN institutions i ON i.unitid = e.unitid
-WHERE i.inst_name = 'Fordham University' AND e.year = 2023;
--- expect ~9863 / 444 / 10307
-```
+Inside sqlite3, run `.read sql/smoke.sql`, then work `sql/prompts.sql` (15 minutes each). Open `sql/solutions.sql` only after you attempt the drill.
 
-## Sunday — SSRS
+## Tables
 
-1. Install/use SQL Server Express + Report Builder (or SSDT) if you don't have them.
+- `institutions` has `unitid`, `inst_name`, `state_abbr`, `control`, `level`, `city`
+- `enrollment` has `unitid`, `year`, `ft_ug`, `pt_ug`, `ug_total`, `grad_enroll` for 2022 and 2023, plus 25 seeded duplicate `unitid`+`year` rows for dedupe practice
+- `completions` has `unitid`, `year`, `award_level`, `count`
+
+`control` is `public`, `private_nonprofit`, or `private_forprofit`.
+`level` is `4-year`, `2-year`, or `less-than-2-year`.
+
+## Monday SSRS
+
+1. Install SQL Server Express and Report Builder, or SSDT, if you do not have them.
 2. Import `data/clean/institutions_nynj.csv` and `enrollment_nynj.csv`.
 3. Follow `ssrs/CHECKLIST.md`.
 
-## Rebuild from scratch
+## Rebuild
 
 ```bash
-./scripts/download_ipeds.sh
-python3 scripts/build_db.py
+make rebuild
 ```
 
-Requires: `curl`, `unzip`, Python 3 + `pandas`.
+You need `curl`, `unzip`, Python 3, and pandas for rebuild. Install pandas with `pip3 install -r requirements.txt`. Sunday SQL practice does not need pandas.
 
-## Notes
-
-- Enrollment FT/PT comes from fall enrollment (`EF*A`) EFALEVEL 22 / 42, not EFFY.
-- Completions are summed by award level (CIP rolled up) — good enough for join/null drills, not CIP analysis.
-- Raw IPEDS files stay local under `data/raw/` and are gitignored.
+Enrollment FT and PT come from fall enrollment (`EF*A`) EFALEVEL 22 and 42, not EFFY.
+Completions are summed by award level. Use them for join and null drills, not CIP analysis.
+Raw IPEDS files stay under `data/raw/` and are gitignored.

@@ -7,3 +7,5 @@ venv/
 *.rdl
 *.rptproj
 *.user
+.sqlite_history
+.cursor/

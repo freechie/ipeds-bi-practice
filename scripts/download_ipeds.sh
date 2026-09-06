@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-# Download IPEDS complete data files needed for weekend SQL + SSRS practice.
 set -euo pipefail
 ROOT="$(cd "$(dirname "$0")/.." && pwd)"
 RAW="$ROOT/data/raw"
@@ -13,8 +12,6 @@ FILES=(
   EF2023A
   C2022_A
   C2023_A
-  EFFY2022
-  EFFY2023
 )
 
 for f in "${FILES[@]}"; do

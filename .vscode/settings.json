@@ -1,0 +1,10 @@
+{
+  "search.exclude": {
+    "data/raw/**": true,
+    "data/clean/**": true,
+    "**/*.sqlite": true
+  },
+  "files.watcherExclude": {
+    "data/raw/**": true
+  }
+}

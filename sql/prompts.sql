@@ -1,6 +1,6 @@
--- Weekend timed drills. Open ipeds_practice.sqlite and solve WITHOUT peeking at solutions.sql
--- sqlite3 ipeds_practice.sqlite
--- Or: Datasette / DB Browser / VS Code SQLite / Azure Data Studio
+-- Sunday timed drills. Start with make practice then solve WITHOUT peeking at solutions.sql
+-- sqlite3 -init sql/sqlite3.init ipeds_practice.sqlite
+-- Or: DB Browser / VS Code SQLite Viewer / Azure Data Studio
 
 -- =============================================================================
 -- PROMPT 1 — CTE filter → aggregate → rank (15 min)

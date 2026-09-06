@@ -1,4 +1,4 @@
-# SSRS rebuild checklist (Sunday)
+# SSRS rebuild checklist (Monday)
 
 Target dataset: import `data/clean/institutions_nynj.csv` + `enrollment_nynj.csv` into **SQL Server Express**, or use a linked process from SQLite via a one-time load.
 

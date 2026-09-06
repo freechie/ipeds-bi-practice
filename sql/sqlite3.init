@@ -1,0 +1,8 @@
+.echo off
+.headers on
+.mode column
+.nullvalue NULL
+.timer on
+.print Sunday SQL. 15 min per prompt. Peek sql/solutions.sql only after an attempt.
+.print Smoke: .read sql/smoke.sql
+.print Prompts: sql/prompts.sql
