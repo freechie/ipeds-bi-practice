@@ -1,6 +1,6 @@
 # IPEDS BI Practice
 
-Sunday SQL and Monday SSRS drill kit for Fordham-style technical rounds.
+Sunday SQL and Monday SSRS drill kit for university-style technical rounds.
 
 Data source: [IPEDS Complete Data Files](https://nces.ed.gov/ipeds/datacenter/DataFiles.aspx) (NCES).
 
