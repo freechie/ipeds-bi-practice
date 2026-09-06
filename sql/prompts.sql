@@ -1,6 +1,5 @@
 -- Sunday timed drills. Start with make practice then solve WITHOUT peeking at solutions.sql
--- sqlite3 -init sql/sqlite3.init ipeds_practice.sqlite
--- Or: DB Browser / VS Code SQLite Viewer / Azure Data Studio
+-- make sql opens this file in DBeaver against ipeds_practice.sqlite
 
 -- =============================================================================
 -- PROMPT 1 — CTE filter → aggregate → rank (15 min)

@@ -15,7 +15,7 @@ rebuild:
 	python3 $(ROOT)/scripts/build_db.py
 
 sql:
-	cd $(ROOT) && sqlite3 -init sql/sqlite3.init ipeds_practice.sqlite
+	$(ROOT)/scripts/sql.sh
 
 practice:
 	$(ROOT)/scripts/practice.sh

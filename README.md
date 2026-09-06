@@ -10,7 +10,7 @@ Data source: [IPEDS Complete Data Files](https://nces.ed.gov/ipeds/datacenter/Da
 make practice
 ```
 
-That runs `make doctor`, then opens sqlite3 with headers and a timer. Or run the steps apart:
+That runs `make doctor`, then opens the database in DBeaver with syntax highlighting. Or run the steps apart:
 
 ```bash
 make doctor
@@ -19,7 +19,7 @@ make sql
 
 `doctor: OK` means tools, row counts, Fordham smoke (`9863` / `444` / `10307`), 25 seeded enrollment dupes, and `sql/solutions.sql` all checked out.
 
-Inside sqlite3, run `.read sql/smoke.sql`, then work `sql/prompts.sql` (15 minutes each). Open `sql/solutions.sql` only after you attempt the drill.
+DBeaver should open `sql/smoke.sql` and `sql/prompts.sql`. Run the smoke query first, then work the prompts (15 minutes each). Open `sql/solutions.sql` only after you attempt the drill. Execute against the `IPEDS practice` connection.
 
 ## Tables
 
